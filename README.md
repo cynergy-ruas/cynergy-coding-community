@@ -27,13 +27,13 @@ Use any of these websites to paste your code and share the link to it in the git
 
 1. Go to [https://github.com/cynergy-ruas/cynergy-coding-community.git](https://github.com/cynergy-ruas/cynergy-coding-community.git)
 2. Go to the &#39;Issues&#39; tab.
-![Issues Tab](https://github.dev/cynergy-ruas/cynergy-coding-community/blob/e5f1447d5e4e9ad35b0299142edf631bb4b2d280/images/iss-1.png)
+![Issues Tab](https://github.com/cynergy-ruas/cynergy-coding-community/blob/main/images/iss-1.png)
 
 3. To create a new issue, click on the &#39;New Issues&#39; button
-![Create New Issue](https://github.dev/cynergy-ruas/cynergy-coding-community/blob/e5f1447d5e4e9ad35b0299142edf631bb4b2d280/images/iss-2.png)
+![Create New Issue](https://github.com/cynergy-ruas/cynergy-coding-community/blob/main/images/iss-2.png)
 
 4. Explain your issue based on the guidelines.
-![Issue explanantion](https://github.dev/cynergy-ruas/cynergy-coding-community/blob/e5f1447d5e4e9ad35b0299142edf631bb4b2d280/images/iss-3.png)
+![Issue explanantion](https://github.com/cynergy-ruas/cynergy-coding-community/blob/main/images/iss-3.png)
 
 5. Close your issue once you get an appropriate solution.
-![Close Issue](https://github.dev/cynergy-ruas/cynergy-coding-community/blob/e5f1447d5e4e9ad35b0299142edf631bb4b2d280/images/iss-4.png)
+![Close Issue](https://github.com/cynergy-ruas/cynergy-coding-community/blob/main/images/iss-4.png)
