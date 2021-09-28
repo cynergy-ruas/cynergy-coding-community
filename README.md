@@ -27,19 +27,13 @@ Use any of these websites to paste your code and share the link to it in the git
 
 1. Go to [https://github.com/cynergy-ruas/cynergy-coding-community.git](https://github.com/cynergy-ruas/cynergy-coding-community.git)
 2. Go to the &#39;Issues&#39; tab.
- ![](RackMultipart20210928-4-skqgi0_html_54142340d79289eb.gif)
 
-![](RackMultipart20210928-4-skqgi0_html_67b70b60e618326d.png)
 
 3. To create a new issue, click on the &#39;New Issues&#39; button
 
-![](RackMultipart20210928-4-skqgi0_html_2971d580c2074990.png)
 
 4. Explain your issue based on the guidelines.
 
-![](RackMultipart20210928-4-skqgi0_html_82e83444acb0ae6a.png)
 
 5. Close your issue once you get an appropriate solution.
- ![](RackMultipart20210928-4-skqgi0_html_6cf416355397391d.gif)
 
-![](RackMultipart20210928-4-skqgi0_html_ab6d8d19b2664cbd.png)
