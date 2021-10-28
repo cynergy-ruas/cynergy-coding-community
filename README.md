@@ -2,7 +2,7 @@
 
 Cynergy Coding Community is a community ready to help everyone out with any coding related problems. All you have to do is create your issue and someone else will help you out! It can also be used as a platform to find team members for hackathons or other competitions and collaborators to help you out in your projects.
 
-To join our Slack channel: [https://join.slack.com/t/cynergy-ruas/shared\_invite/zt-vqnbx9is-7Q1sz7pSBDN7Pv66GIymig](https://join.slack.com/t/cynergy-ruas/shared_invite/zt-vqnbx9is-7Q1sz7pSBDN7Pv66GIymig)
+To join our Slack channel: [https://join.slack.com/t/cynergy-ruas/shared_invite/zt-xf0xgbth-n2C70TxjF4~Duuw~yUt9rQ](https://join.slack.com/t/cynergy-ruas/shared_invite/zt-xf0xgbth-n2C70TxjF4~Duuw~yUt9rQ)
 
 **About the platform used:**
 
